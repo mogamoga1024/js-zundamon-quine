@@ -1,4 +1,10 @@
 # js-zundamon-quine
 JavaScriptで書かれたずんだもんのクワイン
 
-[実行結果](https://wandbox.org/permlink/Utd09Oofo9Osiq1P)
+## zundamon_smile.js
+
+![zundamon_smile.js](./images/zundamon_smile.gif)
+
+## zundamon_yarimasune.js
+
+![zundamon_yarimasune.js](./images/zundamon_yarimasune.gif)
